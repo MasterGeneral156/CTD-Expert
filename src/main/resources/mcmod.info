@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ctdexpert",
+  "name": "CTD Expert Addons",
+  "description": "A companion mod to the CTD Expert modpack.",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheMasterGeneral"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
